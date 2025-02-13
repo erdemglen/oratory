@@ -1,0 +1,10 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="256" cy="256" r="256" fill="#E30A17"/>
+    <path d="M256 150C220 150 190 180 190 216C190 252 220 282 256 282C292 282 322 252 322 216C322 180 292 150 256 150ZM256 262C231 262 210 241 210 216C210 191 231 170 256 170C281 170 302 191 302 216C302 241 281 262 256 262Z" fill="white"/>
+    <path d="M256 302C200 302 154 348 154 404H174C174 359 211 322 256 322C301 322 338 359 338 404H358C358 348 312 302 256 302Z" fill="white"/>
+    <!-- Add sound wave elements -->
+    <path d="M400 216C400 226 398 236 394 245" stroke="white" stroke-width="20" stroke-linecap="round"/>
+    <path d="M430 216C430 231 427 246 421 260" stroke="white" stroke-width="20" stroke-linecap="round"/>
+    <path d="M112 216C112 226 114 236 118 245" stroke="white" stroke-width="20" stroke-linecap="round"/>
+    <path d="M82 216C82 231 85 246 91 260" stroke="white" stroke-width="20" stroke-linecap="round"/>
+</svg>
